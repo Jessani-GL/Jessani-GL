@@ -1,28 +1,31 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eJ4hcjD3H9DZcO8Qo0/giphy.gif" width="100"/>
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jessani-linsangan-96b63a209"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
+ 
   <h1>
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Jessani
 </h1>
-  <p>I am a IT student pursuing to become a Software Engineer. </p>
   
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/jessani-linsangan-96b63a209"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
+
 </div>
-</div>
+  <p>I am a IT student pursuing to become a Software Engineer. I am based in Australia 
+<img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="25px"/>
+</p>
 
 <div id="header" align="left">
   <h2>
   Languages and Tools
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="70px"/>
 </h2>
-  <p>My name is Jessani</p>
+  <p></p>
 </div>
 </div>
 
@@ -36,12 +39,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/344/jira.png" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/344/trello.png" title="Trello" **alt="Trello" width="40" height="40"/>
+   
 </div>
 
 <h2>
   My Stats
 </h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jessani-GL&theme=dracula)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jessani-GL&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessani-GL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Jessani-GL/Jessani-GL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
