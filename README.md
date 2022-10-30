@@ -18,10 +18,9 @@
 <img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="25px"/>
 </p>
 
-<div id="header" align="left">
+<div>
   <h2>
-  Languages and Tools
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="70px"/>
+    Languages and Tools <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="70px"/> 
 </h2>
   <p></p>
 </div>
@@ -43,7 +42,7 @@
 </div>
 
 <h2>
-  My Stats <img src= width="70px"/>
+ My Stats <img src="https://media.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif" width="30px"/>
 </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jessani-GL&theme=tokyonight)](https://git.io/streak-stats)
