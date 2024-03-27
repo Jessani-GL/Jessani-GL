@@ -14,7 +14,7 @@
   
 
 </div>
-  <p>I am a IT student pursuing to become a Software Engineer. I am based in Australia 
+  <p>I am a Software Engineer based in Australia! 
 <img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="25px"/>
 </p>
 
